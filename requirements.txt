@@ -1,0 +1,5 @@
+Depenencias
+1. tensorflow
+2. pandas
+3. opencv-python
+4. scikit-learn
